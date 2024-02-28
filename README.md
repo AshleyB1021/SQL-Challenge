@@ -1,4 +1,4 @@
-### SQL Challenge: Pewlett Hackard Employee Database Analysis
+# SQL Challenge: Pewlett Hackard Employee Database Analysis
 
 ## Overview
 
